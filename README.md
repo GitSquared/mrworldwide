@@ -5,5 +5,5 @@ This is a simple, web-based tool that tests web fonts for coverage of the unicod
 For more information, check out my [blog post](https://squared.codebrew.fr/posts/mr-worldwide).
 
 <p align="center"
-  <img src="https://github.com/GitSquared/mrworldwide/blob/master/assets/demo.gif"/>
+  <img style="box-shadow: 2px 2px 5px rgba(0,0,0,0.3)" src="https://github.com/GitSquared/mrworldwide/blob/master/assets/demo.gif"/>
 </p>
