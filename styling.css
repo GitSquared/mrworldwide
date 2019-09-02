@@ -11,6 +11,12 @@ html, body {
   padding: 0px;
 }
 
+@media (max-height: 605px) {
+  html, body {
+    height: auto;
+  }
+}
+
 body {
   background-image: radial-gradient( circle, #d7d7d7, #d7d7d7 1px, #fff 1px, #fff );
   background-size: 28px 28px;
@@ -105,6 +111,12 @@ section#dragdrop {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+@media (max-height: 715px) {
+  section#dragdrop {
+    min-height: unset;
+  }
 }
 
 section#dragdrop * {
